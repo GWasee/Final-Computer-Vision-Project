@@ -7,7 +7,7 @@ In the following 3 weeks, you will be building on your previous work with image 
 - Fine-tune the YOLO model using your dataset. This involves adjusting the model's parameters to better suit your specific data.
 - Conduct evaluation of your fine-tuned YOLO model. Use appropriate metrics to assess its performance (e.g., precision, recall, accuracy, F1 score, etc.). 
 
-#LINKS
+# LINKS
 
 **VIDEO LINK**
 https://youtu.be/84V4JMfiI_Y
