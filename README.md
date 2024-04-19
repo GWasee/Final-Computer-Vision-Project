@@ -14,6 +14,8 @@ https://universe.roboflow.com/vegetable-quality-detection/potato-detection-3et6q
 
 **VIDEO LINK**
 https://youtu.be/84V4JMfiI_Y
+All predicted videos can be found on the google drive link
+Predictions on images are uploaded on predicts.zip
 
 **Google Drive Link**
 https://drive.google.com/drive/folders/1hYffFLmVPUJQxsz0gOjUZICNjGRvcEiX?usp=sharing
