@@ -9,6 +9,9 @@ In the following 3 weeks, you will be building on your previous work with image 
 
 # LINKS
 
+**Robowflow Dataset link**
+https://universe.roboflow.com/vegetable-quality-detection/potato-detection-3et6q
+
 **VIDEO LINK**
 https://youtu.be/84V4JMfiI_Y
 
